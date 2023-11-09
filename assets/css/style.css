@@ -30,3 +30,8 @@ a {
 a:hover {
     color: var
 }
+
+img {
+    width: 100%;
+}
+
